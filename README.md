@@ -1,4 +1,5 @@
 # odin-recipes
 
-Just me trying to test my bare minimum HTML skills. 
-do NOT follow these recipes, you will create a monster. 
+Just me trying to test and explore my bare minimum HTML skills. 
+Not at all real Recipes(Obviously)
+
